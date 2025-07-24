@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="icons/node.js.svg" width="32" height="32" alt="node.js logo" />
 </div>
 
 ###

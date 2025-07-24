@@ -60,7 +60,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=emacs" height="40" alt="gnuemacs logo"  />
+  <img src="icons/git.svg" width="32" height="32" alt="git logo" />
 </div>
 
 ###

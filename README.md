@@ -27,9 +27,8 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-
-  <img src="icons/html5.svg" width="24" height="24" alt="icon" />
+  <img src="icons/html5.svg" width="40" height="40" alt="html5 logo" />
+  <img src="icons/css.svg" width="40" height="40" alt="css logo" />
 </div>
 
 ###

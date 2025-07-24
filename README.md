@@ -50,7 +50,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="icons/c.svg" width="32" height="32" alt="c logo" />
 </div>
 
 ###

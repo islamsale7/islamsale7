@@ -31,6 +31,7 @@
   <img src="icons/css.svg" width="32" height="32" alt="css logo" />
   <img src="icons/normalize.css.svg" width="32" height="32" alt="normalize.css logo" />
   <img src="icons/sass.svg" width="32" height="32" alt="sass logo" />
+  <img src="icons/javascript.svg" width="32" height="32" alt="javascript logo" />
 </div>
 
 ###

@@ -46,7 +46,7 @@
   <img src="icons/supabase.svg" width="32" height="32" alt="supabase logo" />  
   <img src="icons/node.js.svg" width="32" height="32" alt="node.js logo" />
   <img src="icons/express.svg" width="32" height="32" alt="express logo" />
-  
+  <img src="icons/mysql.svg" width="32" height="32" alt="mysql logo" />
 </div>
 
 ###

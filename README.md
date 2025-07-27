@@ -43,6 +43,7 @@
 ###
 
 <div align="left">
+  <img src="icons/supabase.svg" width="32" height="32" alt="supabase logo" />  
   <img src="icons/node.js.svg" width="32" height="32" alt="node.js logo" />
 </div>
 

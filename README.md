@@ -85,6 +85,7 @@
   <img src="icons/notion.svg" width="32" height="32" alt="notion logo" />
   <img src="icons/vite.svg" width="32" height="32" alt="vite logo" />
   <img src="icons/npm.svg" width="32" height="32" alt="npm logo" />
+  <img src="icons/eslint.svg" width="32" height="32" alt="eslint logo" />
 </div>
 
 ###

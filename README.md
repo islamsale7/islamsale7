@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hi! My name is Islam 🥷🏻<br>I'm a Frontend Software Engineer</h1>
+<h1 align="center">Hi! 👋, I'm Islam 🥷🏻 <br /> A passionate Full-Stack developer from Egypt</h1>
 
 ###
 
@@ -14,11 +14,21 @@
 
 ###
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+###
+
 <p align="left"> <a href="https://twitter.com/devislam" target="blank"><img src="https://img.shields.io/twitter/follow/devislam?logo=twitter&style=for-the-badge" alt="devislam" /></a> </p>
 
 ###
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 🔭 I’m currently working on **Building some projects**
+
+- 🌱 I’m currently learn **To become a Full-Stack developer.**
+
+- 📫 How to reach me **devislam.q@gmail.com**
+
+- ⚡ Truth be told, **I think I'm a genius**
 
 ###
 
@@ -84,7 +94,7 @@
 ###
 
 <div align="left">
-  <a href="developer.islamsaleh@gmail.com" target="_blank">
+  <a href="devislam.q@gmail.com" target="_blank">
   <img src="icons/gmail.svg" width="32" height="32" alt="gmail logo" />
   </a>
 </div>

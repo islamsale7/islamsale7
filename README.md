@@ -70,6 +70,7 @@
 
 <div align="left">
   <img src="icons/git.svg" width="32" height="32" alt="git logo" />
+  <img src="icons/github.svg" width="32" height="32" alt="github logo" />
 </div>
 
 ###

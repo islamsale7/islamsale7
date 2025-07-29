@@ -88,6 +88,7 @@
   <img src="icons/eslint.svg" width="32" height="32" alt="eslint logo" />
   <img src="icons/prettier.svg" width="32" height="32" alt="prettier logo" />
   <img src="icons/markdown.svg" width="32" height="32" alt="markdown logo" />
+  <img src="icons/cmake.svg" width="32" height="32" alt="cmake logo" />
 </div>
 
 ###

@@ -73,6 +73,7 @@
   <img src="icons/github.svg" width="32" height="32" alt="github logo" />
   <img src="icons/slack.svg" width="32" height="32" alt="slack logo" />
   <img src="icons/notion.svg" width="32" height="32" alt="notion logo" />
+  <img src="icons/vite.svg" width="32" height="32" alt="vite logo" />
 </div>
 
 ###

@@ -92,6 +92,7 @@
   <img src="icons/sublimetext.svg" width="32" height="32" alt="sublimetext logo" />
   <img src="icons/phpmyadmin.svg" width="32" height="32" alt="phpmyadmin logo" />
   <img src="icons/virtualbox.svg" width="32" height="32" alt="virtualbox logo" />
+  <img src="icons/vmware.svg" width="32" height="32" alt="vmware logo" />
 </div>
 
 ###

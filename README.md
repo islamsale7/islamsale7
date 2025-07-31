@@ -91,6 +91,7 @@
   <img src="icons/cmake.svg" width="32" height="32" alt="cmake logo" />
   <img src="icons/sublimetext.svg" width="32" height="32" alt="sublimetext logo" />
   <img src="icons/phpmyadmin.svg" width="32" height="32" alt="phpmyadmin logo" />
+  <img src="icons/virtualbox.svg" width="32" height="32" alt="virtualbox logo" />
 </div>
 
 ###

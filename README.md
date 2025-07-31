@@ -93,6 +93,7 @@
   <img src="icons/phpmyadmin.svg" width="32" height="32" alt="phpmyadmin logo" />
   <img src="icons/virtualbox.svg" width="32" height="32" alt="virtualbox logo" />
   <img src="icons/vmware.svg" width="32" height="32" alt="vmware logo" />
+  <img src="icons/bootstrap.svg" width="32" height="32" alt="bootstrap logo" />
 </div>
 
 ###

@@ -44,6 +44,9 @@
   <img src="icons/javascript.svg" width="32" height="32" alt="javascript logo" />
   <img src="icons/typescript.svg" width="32" height="32" alt="typescript logo" />
   <img src="icons/tailwindcss.svg" width="32" height="32" alt="tailwindcss logo" />
+  <img src="icons/bootstrap.svg" width="32" height="32" alt="bootstrap logo" />
+  <img src="icons/reactbootstrap.svg" width="32" height="32" alt="reactbootstrap logo" />
+  <img src="icons/styledcomponents.svg" width="32" height="32" alt="styledcomponents logo" />  
 </div>
 
 ###
@@ -93,9 +96,6 @@
   <img src="icons/phpmyadmin.svg" width="32" height="32" alt="phpmyadmin logo" />
   <img src="icons/virtualbox.svg" width="32" height="32" alt="virtualbox logo" />
   <img src="icons/vmware.svg" width="32" height="32" alt="vmware logo" />
-  <img src="icons/bootstrap.svg" width="32" height="32" alt="bootstrap logo" />
-  <img src="icons/reactbootstrap.svg" width="32" height="32" alt="reactbootstrap logo" />
-  <img src="icons/styledcomponents.svg" width="32" height="32" alt="styledcomponents logo" />  
 </div>
 
 ###

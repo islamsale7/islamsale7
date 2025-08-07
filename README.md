@@ -50,6 +50,7 @@
   <img src="icons/cssmodules.svg" width="32" height="32" alt="cssmodules logo" />
   <img src="icons/react.svg" width="32" height="32" alt="react logo" />
   <img src="icons/createreactapp.svg" width="32" height="32" alt="createreactapp logo" />
+  <img src="icons/reacthookform.svg" width="32" height="32" alt="reacthookform logo" />
 </div>
 
 ###

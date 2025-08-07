@@ -48,6 +48,7 @@
   <img src="icons/reactbootstrap.svg" width="32" height="32" alt="reactbootstrap logo" />
   <img src="icons/styledcomponents.svg" width="32" height="32" alt="styledcomponents logo" />
   <img src="icons/cssmodules.svg" width="32" height="32" alt="cssmodules logo" />
+  <img src="icons/react.svg" width="32" height="32" alt="react logo" />
   <img src="icons/createreactapp.svg" width="32" height="32" alt="createreactapp logo" />
 </div>
 

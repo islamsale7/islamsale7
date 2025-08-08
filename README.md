@@ -57,6 +57,7 @@
   <img src="icons/nextjs.svg" width="32" height="32" alt="nextjs logo" />
   <img src="icons/nextui.svg" width="32" height="32" alt="nextui logo" />
   <img src="icons/framer.svg" width="32" height="32" alt="framer logo" />
+  <img src="icons/pwa.svg" width="32" height="32" alt="pwa logo" />
 </div>
 
 ###

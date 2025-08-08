@@ -55,6 +55,7 @@
   <img src="icons/reactrouter.svg" width="32" height="32" alt="reactrouter logo" />
   <img src="icons/redux.svg" width="32" height="32" alt="redux logo" />
   <img src="icons/nextjs.svg" width="32" height="32" alt="nextjs logo" />
+  <img src="icons/nextui.svg" width="32" height="32" alt="nextui logo" />
 </div>
 
 ###

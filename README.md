@@ -59,6 +59,7 @@
   <img src="icons/framer.svg" width="32" height="32" alt="framer logo" />
   <img src="icons/pwa.svg" width="32" height="32" alt="pwa logo" />
   <img src="icons/webpack.svg" width="32" height="32" alt="webpack logo" />
+  <img src="icons/rollupjs.svg" width="32" height="32" alt="rollupjs logo" />
 </div>
 
 ###

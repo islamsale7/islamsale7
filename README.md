@@ -58,6 +58,7 @@
   <img src="icons/nextui.svg" width="32" height="32" alt="nextui logo" />
   <img src="icons/framer.svg" width="32" height="32" alt="framer logo" />
   <img src="icons/pwa.svg" width="32" height="32" alt="pwa logo" />
+  <img src="icons/webpack.svg" width="32" height="32" alt="webpack logo" />
 </div>
 
 ###

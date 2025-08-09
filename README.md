@@ -63,6 +63,7 @@
   <img src="icons/googlechrome.svg" width="32" height="32" alt="googlechrome logo" />
   <img src="icons/brave.svg" width="32" height="32" alt="brave logo" />
   <img src="icons/firefox.svg" width="32" height="32" alt="firefox logo" />
+  <img src="icons/firefoxbrowser.svg" width="32" height="32" alt="firefoxbrowser logo" />
 </div>
 
 ###

@@ -60,6 +60,7 @@
   <img src="icons/pwa.svg" width="32" height="32" alt="pwa logo" />
   <img src="icons/webpack.svg" width="32" height="32" alt="webpack logo" />
   <img src="icons/rollupjs.svg" width="32" height="32" alt="rollupjs logo" />
+  <img src="icons/googlechrome.svg" width="32" height="32" alt="googlechrome logo" />
 </div>
 
 ###

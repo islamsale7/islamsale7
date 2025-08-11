@@ -125,6 +125,7 @@
 ###
 
 <div align="left">
+  <img src="icons/docker.svg" width="32" height="32" alt="docker logo" />
 </div>
 
 ###

@@ -144,6 +144,9 @@
   <a href="devislam.q@gmail.com" target="_blank">
   <img src="icons/facebook.svg" width="32" height="32" alt="facebook logo" />
   </a>    
+  <a href="devislam.q@gmail.com" target="_blank">
+  <img src="icons/instagram.svg" width="32" height="32" alt="instagram logo" />
+  </a>      
 </div>
 
 ###

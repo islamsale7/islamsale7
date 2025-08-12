@@ -138,6 +138,9 @@
   <a href="devislam.q@gmail.com" target="_blank">
   <img src="icons/gmail.svg" width="32" height="32" alt="gmail logo" />
   </a>
+  <a href="devislam.q@gmail.com" target="_blank">
+  <img src="icons/linkedin.svg" width="32" height="32" alt="linkedin logo" />
+  </a>  
 </div>
 
 ###
